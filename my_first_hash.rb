@@ -1,7 +1,5 @@
 def my_hash
   my_household ={"Mom" => "Marina", "Dad" => "Zach", "cat" => "Henry", "baby" => "Max"}
-
-
 end
 
 
